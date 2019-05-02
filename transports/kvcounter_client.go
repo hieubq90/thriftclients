@@ -20,9 +20,9 @@ var (
 		thriftpool.DefaultClose)
 )
 
-func init() {
-	fmt.Println("init thrift kvcounter client ")
-}
+// func init() {
+// 	fmt.Println("init thrift kvcounter client ")
+// }
 
 //GetKVCounterBinaryClient client by host:port
 func GetKVCounterBinaryClient(aHost, aPort string) *thriftpool.ThriftSocketClient {
