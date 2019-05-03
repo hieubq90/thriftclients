@@ -1,10 +1,6 @@
 package transports
 
-package transports
-
 import (
-	"fmt"
-
 	"git.apache.org/thrift.git/lib/go/thrift"
 	"github.com/hieubq90/thriftclients/counter/KVStepCounter"
 	thriftpool "github.com/hieubq90/thriftpool"
