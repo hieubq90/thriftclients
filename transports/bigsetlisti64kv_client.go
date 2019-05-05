@@ -1,7 +1,7 @@
 package transports
 
 import (
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"github.com/apache/thrift/lib/go/thrift"
 	"github.com/hieubq90/thriftclients/bigset/ListI64"
 	"github.com/hieubq90/thriftpool"
 )

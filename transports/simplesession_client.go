@@ -1,7 +1,7 @@
 package transports
 
 import (
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"github.com/apache/thrift/lib/go/thrift"
 	ss "github.com/hieubq90/thriftclients/core/auth/SimpleSession"
 	thriftpool "github.com/hieubq90/thriftpool"
 )
